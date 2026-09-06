@@ -1,5 +1,3 @@
-## Hi there 👋
-[Hello](tarcriu/hey.png)
 <p align="center">
   <img src="hey.png" width="700" alt="tarcriu's pf banner" />
 </p>
