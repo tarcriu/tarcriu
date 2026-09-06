@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Hello](tarcriu/hey.png)
+[Hello](tarcriu/hey.png)
 <!--
 **tarcriu/tarcriu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
