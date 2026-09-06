@@ -2,7 +2,7 @@
   <img src="hey.png" width="700" alt="tarcriu's pf banner" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarcriu&style=for-the-badge&color=blueviolet" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=tarcriu&style=for-the-badge&color=red" alt="visitors" />
 </p>
 <p align="justify">
 You can call me tarcriu (no capital T or anything), I'm a Systems Analysis and Development student from Brazil, a freelance developer for Ren'Py games (although I sure am interested on learning more about GameMaker, Godot and other engines) and also a translator, either for video games or people. I love learning more about Open Source Software, learning other languages and mate, I sure love having my privacy online
